@@ -1,0 +1,9 @@
+function FormularioIMC () {
+    return (
+        <div>
+            <h1>formulario</h1>
+        </div>
+    )
+}
+
+export default FormularioIMC;
