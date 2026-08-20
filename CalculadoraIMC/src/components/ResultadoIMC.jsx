@@ -1,4 +1,4 @@
-function ResultadoIMC ({ setPeso, setAltura, imc, setImc }) {
+function ResultadoIMC ({  imc }) {
     function classificarIMC(imc) {
         if (imc < 18.5) {
             return 'Abaixo do peso';
